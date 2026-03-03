@@ -1,0 +1,29 @@
+ACADEMIC USE LICENSE
+
+Copyright (c) 2026 Ruthvik Sai Kumar L
+All rights reserved.
+
+1. Grant of Permission
+
+Permission is hereby granted to use this software solely for academic, educational, and non-commercial purposes.
+
+This includes classroom instruction, academic demonstrations, internal laboratory use, and non-commercial student learning activities.
+
+2. Restrictions
+
+The following are not permitted without explicit written permission from the author:
+
+- Commercial use of the software
+- Sale, sublicensing, or redistribution for profit
+- Public redistribution outside the original academic context
+- Claiming authorship or ownership of the software
+
+Modification of the software for internal academic use is permitted. Redistribution of modified versions is not permitted without prior permission from the author.
+
+3. Ownership
+
+The software remains the intellectual property of the author. This license does not transfer ownership.
+
+4. No Warranty
+
+This software is provided "as is", without warranty of any kind, express or implied. The author shall not be held liable for any damages arising from its use.
