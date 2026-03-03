@@ -127,3 +127,9 @@ If the phone remains locked for an extended time, the app may internally reset. 
 Do not re-enter the IP immediately, as this can result in duplicate UDP signals being sent.
 
 Instead, fully close the app and reopen it before reconnecting.
+
+---
+
+### Academic Association
+
+This software was independently developed by Ruthvik Sai Kumar and is used for instructional purposes within programs at Amrita Vishwa Vidyapeetham, Bengaluru.
